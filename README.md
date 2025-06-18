@@ -1,6 +1,6 @@
 # Quickstart
 ```sh
-git clone https://github.com/Taloonys/better-dotfiles.git ~/dotfiles && cd ~/dotfiles
+git clone https://github.com/Taloonys/dotfiles.git ~/dotfiles && cd ~/dotfiles
 ln -s ~/dotfiles/nvim ~/.config/nvim
 ln -s ~/dotfiles/.gitconfig ~/.gitconfig
 ```
